@@ -1,0 +1,11 @@
+streamlit
+pymupdf
+spacy
+pytesseract
+Pillow
+python-dotenv
+python-dateutil
+google-genai
+sentence-transformers
+torch
+torchvision
