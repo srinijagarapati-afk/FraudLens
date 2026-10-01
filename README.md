@@ -3,7 +3,9 @@
 FraudLens is an AI-powered fraud document intelligence platform designed to analyze business documents and help identify important information for fraud investigation.
 
 The application combines document processing, OCR, NLP, semantic search, and Generative AI to extract information from PDF documents and allow users to ask questions about their contents.
+## 📸 Demo
 
+![FraudLens RAG Demo](screenshots/fraudlens-rag.png)
 ## 🚀 Features
 
 - PDF document upload and processing
